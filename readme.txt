@@ -10,4 +10,4 @@ VSCode
 python
 
 Once you have them, open a new folder, then in either git bash or cmd do: 
-git clone 
+git clone https://github.com/stemnmhs/ian
