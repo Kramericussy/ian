@@ -1,0 +1,11 @@
+# Copy existing repository
+git clone https://github.com/stemnmhs/ian
+
+# Stage all files for commit
+git add -A
+
+# Commit changes
+git commit -m "My commit message"
+
+# Push to upstream (cloud)
+git push
