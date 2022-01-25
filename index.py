@@ -1,6 +1,6 @@
 # from ast import Num, Store
-# import numpy as np
-# import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib.pyplot as plt
 import math
 
 print("hello")
