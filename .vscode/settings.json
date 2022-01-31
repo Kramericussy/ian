@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "Scripts/python.exe",
+    "editor.formatOnSave": true,
+    "diffEditor.codeLens": true,
+    "editor.codeLens": true
+}

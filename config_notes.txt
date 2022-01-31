@@ -1,0 +1,3 @@
+To run the venv it may be necessary to do in PowerShell: 
+ 
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted

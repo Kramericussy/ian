@@ -20,5 +20,3 @@ def sum_up_to(maximum):
 
 if __name__ == '__main__':
     print(sum_up_to(4e6))
-
-    print('what?')
