@@ -1,3 +1,12 @@
+1/25/22
+---
+
+Nice work today.  Find the problem we were trying to solve at projecteuler.net/problem=1
+
+Just keep familiarizing yourself with data types and control statements (loops, if).  Let me know if you have trouble setting up the environment
+at home and bring in your computer next time if so. 
+
+
 1/28/22
 ---
 
