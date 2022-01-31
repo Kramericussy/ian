@@ -49,7 +49,7 @@ for name in names:
 first = 1
 second = 2
 total= 0
-while total < 4e6 + 1:
+while first + second < 4e6 + 1:
     total= first + second
     first = second
     second = total 
