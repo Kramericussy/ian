@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Copy existing repository
 git clone https://github.com/stemnmhs/ian
 
@@ -9,3 +10,16 @@ git commit -m "My commit message"
 
 # Push to upstream (cloud)
 git push
+=======
+git clone https://github.com/stemnmhs/ian
+
+
+#stage all files for comit
+git add -A
+
+git commit -m"My commit message"
+
+
+#
+git push
+>>>>>>> master
